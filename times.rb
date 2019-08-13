@@ -1,5 +1,6 @@
 def using_times
-	#your code here
+	7.times do 
+  puts "Hiding 10 stolen jewels."
 end
 
 
